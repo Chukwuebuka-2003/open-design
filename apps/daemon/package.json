@@ -36,7 +36,7 @@
   "dependencies": {
     "@babel/parser": "7.29.3",
     "@ffmpeg-installer/ffmpeg": "1.1.0",
-    "@modelcontextprotocol/sdk": "1.31.0",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "@open-design/agui-adapter": "workspace:*",
     "@open-design/contracts": "workspace:*",
     "@open-design/diagnostics": "workspace:*",
@@ -70,7 +70,7 @@
     "undici": "7.29.1"
   },
   "devDependencies": {
-    "esbuild": "0.28.0",
+    "esbuild": "0.28.1",
     "@typescript/native": "npm:typescript@7.0.2",
     "@babel/types": "7.29.0",
     "@types/better-sqlite3": "7.6.13",
@@ -78,7 +78,7 @@
     "@types/multer": "2.1.0",
     "@types/node": "20.19.39",
     "jsdom": "29.1.1",
-    "vitest": "4.1.11"
+    "vitest": "4.1.12"
   },
   "engines": {
     "node": "~24"
